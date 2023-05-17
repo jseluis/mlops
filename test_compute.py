@@ -13,4 +13,4 @@ class TestCalculator:
         assert 2 == compute.subtract(4, 2)
     
     def test_multiplication(self):
-        assert 15 == compute.multiply(3, 5)
+        assert 6 == compute.multiply(2, 3)
