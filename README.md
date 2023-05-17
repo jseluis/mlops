@@ -15,9 +15,9 @@ git push -u origin main
 
 2. Create CircleCi account & connect it to GitHub/GitLab
 
-3. python3 -m venv calculator
+3. python3 -m venv compute
 
-4. . calculator/bin/activate
+4. . compute/bin/activate
 
 5. git add .
 
@@ -31,7 +31,7 @@ git push -u origin main
 
 10. pytest -v --cov
 
-11. git add test_calculator.py
+11. git add test_compute.py
 
 12. git commit -m"added 1st unit test"
 
