@@ -26,6 +26,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
+            flake8 --statistics
             pytest -v --cov
 
 # Orchestrate jobs using workflows
