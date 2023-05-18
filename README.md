@@ -1,4 +1,4 @@
-# MLOps CI Workflow
+# Quick CI Workflow
 
 # Simple Git Commands
 
